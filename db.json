@@ -1,6 +1,5 @@
 
-{
-  "experiences":[
+[
       {
         "id": "1",
         "title": "Information Technology Intern",
@@ -41,5 +40,4 @@
         "web":"",
         "content":"creating a simple personal website with Vuejs and use some GSAP for animation which is from the Javascript Library"
       }
-    ]
-  }
+]
